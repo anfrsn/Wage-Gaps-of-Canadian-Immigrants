@@ -39,7 +39,7 @@ The models used do not account for education, occupation, industry, or years sin
 
 
 FILES
-CAimmigrant_wage_analysis.md - Knitted output will ALL results, tables, and visible boxplot \n
-pub2026 - dataset provided by Statistics Canada \n
-2026-06-CSV - original zip file \n
-CAimmigrant_wage_analysis_files - Includes boxplot \n
+CAimmigrant_wage_analysis.md - Knitted output will ALL results, tables, and visible boxplot 
+pub2026 - dataset provided by Statistics Canada 
+2026-06-CSV - original zip file 
+CAimmigrant_wage_analysis_files - Includes boxplot
