@@ -38,9 +38,7 @@ Smaller sample size: Only the month of June 2026 was included within the project
 The models used do not account for education, occupation, industry, or years since immigration. These variables could most likely explain parts of the wage gap.
 
 
-
 Files
-CAimmigrant_wage_analysis.Rmd - Includes full analysis, + data cleaning, regression models, and visualizations (Base R Code)
 CAimmigrant_wage_analysis.md - Knitted output will ALL results, tables, and visible boxplot
 pub2026 - dataset provided by Statistics Canada
 2026-06-CSV - original zip file
