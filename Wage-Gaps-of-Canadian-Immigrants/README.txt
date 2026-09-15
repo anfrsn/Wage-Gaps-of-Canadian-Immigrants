@@ -39,4 +39,7 @@ The models used do not account for education, occupation, industry, or years sin
 
 Files
 CAimmigrant_wage_analysis.Rmd - Includes full analysis, + data cleaning, regression models, and visualizations (Base R Code)
-CAimmigrant_wage_analysis.md - Knitted output will ALL results, tables, and visible boxplot 
+CAimmigrant_wage_analysis.md - Knitted output will ALL results, tables, and visible boxplot
+pub2026 - dataset provided by Statistics Canada
+2026-06-CSV - original zip file
+CAimmigrant_wage_analysis_files - Includes boxplot
