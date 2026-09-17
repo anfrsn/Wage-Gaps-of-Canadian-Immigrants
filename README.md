@@ -14,7 +14,7 @@ Sample Size: 58,516 employed employees<br>
 
 Adapted from Statistics Canada, Labour Force Survey PUMF (This project is NOT endorsed by Statistics Canada).
 
-## Method Used:
+## Method 
 Outcome: log(hourly wage) - 'HRLYEARN' was converted from raw units to dollars (this is because the PUMF reports wages with two implied decimals)<br>
 Predictors:<br>
 'Immigrant' - 1 if landed as an immigrant (any amount of time), 0 otherwise<br>
