@@ -2,19 +2,19 @@
 
 Immigrant Wage Gap In Canada's Major Cities
 
-Research Question:
+# Research Question:
 Is there a wage gap between immigrants and non-immigrants for those who are currently employed in Canada?
 Does this gap differ in Canada's 9 largest metro areas (Québec, Montréal, Ottawa–Gatineau (Ontario part), Toronto, Hamilton, Winnipeg, Calgary, Edmonton, Vancouver) compared to everywhere else?
 
 
-DATA
+# DATA
 Source: Statistics Canada, Labour Force Survey (LFS), Public Use Microdata File (PUMF)
 Time period: June 2026
 Sample Size: 58,516 employed employees
 
 Adapted from Statistics Canada, Labour Force Survey PUMF (This project is NOT endorsed by Statistics Canada).
 
-Method Used:
+# Method Used:
 Outcome: log(hourly wage) - 'HRLYEARN' was converted from raw units to dollars (this is because the PUMF reports wages with two implied decimals)
 Predictors:
 'Immigrant' - 1 if landed as an immigrant (any amount of time), 0 otherwise
